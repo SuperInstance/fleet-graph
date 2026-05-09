@@ -1,0 +1,12 @@
+[package]
+name = "fleet-graph"
+version = "0.1.0"
+edition = "2021"
+description = "Coupling graph topology analysis for fleet dynamics: spectral gap, Lyapunov exponents, topology comparison"
+license = "MIT"
+repository = "https://github.com/SuperInstance/fleet-graph"
+
+[dependencies]
+
+[lib]
+name = "fleet_graph"
